@@ -1,6 +1,6 @@
 # Rock vs Mine Prediction using **Logistic Regression** In Machine Learning
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://github.com/ak-0283/Rock_vs_Mine_Prediction/blob/main/Rock_vs_Mine_Prediction.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/Rock_vs_Mine_Prediction/blob/main/Rock_vs_Mine_Prediction.ipynb)
 
 This is my **first Machine Learning project** after learning from [Siddhardhan's YouTube channel](https://www.youtube.com/@Siddhardhan) 🚀.
 The project predicts whether the object is a **Rock (R)** or a **Mine (M)** using Logistic Regression.
