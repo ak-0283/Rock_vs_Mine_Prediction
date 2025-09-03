@@ -13,6 +13,17 @@ The project predicts whether the object is a **Rock (R)** or a **Mine (M)** usin
 
 ---
 
+## 🔁 Project Workflow
+
+1. **Data Loading** using pandas  
+2. **Exploratory Data Analysis**  
+3. **Label Encoding** of categorical target labels  
+4. **Train-Test Split** using `train_test_split`  
+5. **Model Building** using Logistic Regression  
+6. **Model Evaluation** with accuracy on training and testing sets
+
+---
+
 ## 📂 Dataset Information
 
 * Dataset contains **208 rows** and **61 columns**.
@@ -22,9 +33,16 @@ The project predicts whether the object is a **Rock (R)** or a **Mine (M)** usin
   * `M` → Mine (111 samples)
   * `R` → Rock (97 samples)
 
+> **Note**: The dataset is not included in this repository. Please download it manually.
 ---
 
 ## 🛠️ Libraries Used
+
+- Python
+- Google Colab
+- NumPy
+- Pandas
+- scikit-learn (Logistic Regression, LabelEncoder, train_test_split, accuracy_score)
 
 ```python
 import numpy as np
@@ -96,7 +114,7 @@ This project helped me:
 * Learn **Logistic Regression** basics
 * Evaluate **model performance**
 
-It was a great learning experience and my first step into the world of **Machine Learning**! 🚀
+It was a great learning experience and my first step into the world of **Machine Learning**! 🚀. ⭐️ If you found this helpful, consider giving this repo a star!
 
 ---
 
