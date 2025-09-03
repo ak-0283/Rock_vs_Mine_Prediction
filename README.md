@@ -96,7 +96,7 @@ This project helped me:
 * Learn **Logistic Regression** basics
 * Evaluate **model performance**
 
-It was a great learning experience and my first step into the world of **Machine Learning**! 🚀
+It was a great learning experience and my first step into the world of **Machine Learning**! 🚀. ⭐️ If you found this helpful, consider giving this repo a star!
 
 ---
 
