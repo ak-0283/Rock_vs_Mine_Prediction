@@ -33,7 +33,7 @@ The project predicts whether the object is a **Rock (R)** or a **Mine (M)** usin
   * `M` → Mine (111 samples)
   * `R` → Rock (97 samples)
 
-> **Note**: The dataset is not included in this repository. Please download it manually.
+> **Note**: The dataset is  included in this repository in the dataset.txt file. Please download it manually or else you download  dataset from any website like kaggle or uci and then can you check it 👍.
 ---
 
 ## 🛠️ Libraries Used
