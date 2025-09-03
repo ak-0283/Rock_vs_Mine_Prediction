@@ -1,4 +1,4 @@
-# Rock vs Mine Prediction using Machine Learning
+# Rock vs Mine Prediction using **Logistic Regression**
 
 This is my **first Machine Learning project** after learning from [Siddhardhan's YouTube channel](https://www.youtube.com/@Siddhardhan) 🚀.
 The project predicts whether the object is a **Rock (R)** or a **Mine (M)** using Logistic Regression.
